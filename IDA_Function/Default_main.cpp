@@ -16,6 +16,7 @@ void Print_Summ(int num1, int num2)
 {
 	std::cout << "\n" << num1 << " + " << num2 << " = " << num1 + num2;
 }
+
 // This function returns summ of 2 integer parameters
 int Integer_Summ(int num1, int num2)
 {
